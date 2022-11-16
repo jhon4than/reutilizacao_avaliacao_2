@@ -1,2 +1,2 @@
-# reutilizacao_avaliacao_2
+# Reutilização de Sofware
 Projeto desenvolvido em react typescript para trabalho de reutilização de software
