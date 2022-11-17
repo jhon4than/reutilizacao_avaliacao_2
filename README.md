@@ -6,5 +6,5 @@ Startando projeto
 Requisitos Node.js
 
 # Comandos:
- npm install
- npm start
+npm install 
+npm start
